@@ -1,0 +1,21 @@
+[
+  {
+    "postId": "DUMMYPOSTID1",
+    "type": "comment",
+    "id": "18082843581850016",
+    "userId": "35344407915",
+    "message": "see you this weekend! ❤️‍🔥",
+    "createdAt": "2025-09-09T06:28:25.000Z",
+    "likeCount": 12,
+    "replyCount": 0,
+    "user": {
+      "id": "36344407913",
+      "username": "janedoe",
+      "fullName": "Jane Doe",
+      "isVerified": true,
+      "isPrivate": false,
+      "profilePicUrl": "https://scontent-vie1-1.cdninstagram.com/v/t51.2885-19/sample.jpg"
+    },
+    "isRanked": true
+  }
+]
