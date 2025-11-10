@@ -1,0 +1,18 @@
+{
+  "request": {
+    "timeout_seconds": 10,
+    "max_retries": 3,
+    "retry_backoff_seconds": 2
+  },
+  "scraper": {
+    "max_items_per_post": 100,
+    "demo_mode": true
+  },
+  "output": {
+    "directory": "data",
+    "file_prefix": "comments"
+  },
+  "logging": {
+    "level": "INFO"
+  }
+}
