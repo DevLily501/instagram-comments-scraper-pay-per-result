@@ -1,0 +1,5 @@
+# Example Instagram post URLs or shortcodes.
+# Replace these with real public post URLs or IDs when running the scraper.
+
+https://www.instagram.com/p/DUMMYPOSTID1/
+DUMMYPOSTID2
